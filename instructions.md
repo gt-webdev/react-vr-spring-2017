@@ -154,5 +154,3 @@ constructor(props) {
   }}>
 </VrButton>
 ```
-
-## Apply Ambient Light
